@@ -2,4 +2,14 @@
 	border-collapse: collapse;
 	width:300px;
 	}
-	
+	.green{
+		background-color:green;
+		height:20px;
+	}
+.blue{
+		background-color:blue;
+		height:20px;
+	}
+.j{
+	vertical-align:center;
+}
